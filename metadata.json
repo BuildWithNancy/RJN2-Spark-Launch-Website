@@ -1,0 +1,6 @@
+{
+  "name": "RJN2 Spark",
+  "description": "Streamline client intake, follow-up, and operations without adding more tools or manual work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
