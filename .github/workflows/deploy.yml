@@ -1,4 +1,4 @@
-Deploy Website to Bluehost
+name: Deploy Website to Bluehost
 
 on:
   push:
