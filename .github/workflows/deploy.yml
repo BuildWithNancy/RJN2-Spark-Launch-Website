@@ -1,4 +1,4 @@
-yamlname: Deploy Website to Bluehost
+Deploy Website to Bluehost
 
 on:
   push:
